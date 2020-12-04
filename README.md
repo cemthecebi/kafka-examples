@@ -23,7 +23,7 @@
 ### Kafka RUN
 #### Run Zookeeper Server
 ```
-Terminal 1: Start ZooKeeper. In your Kafka installation folder
+Terminal 1: Start ZooKeeper. Go to your Kafka installation folder
 - bin/zookeeper-server-start.sh config/zookeeper.properties
 ```
 #### Run Kafka Server
