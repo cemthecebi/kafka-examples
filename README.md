@@ -1,4 +1,4 @@
-# spring-kafka-example
+# Java Kafka Examples
 > Kafka producer, consumer
 
 > messages send and receive test example
